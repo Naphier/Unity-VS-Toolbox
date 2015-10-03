@@ -1,0 +1,554 @@
+<UserSettings>
+    <ApplicationIdentity version="14.0" />
+    <ToolsOptions />
+    <Category name="Environment_Group" RegisteredName="Environment_Group">
+        <Category name="Environment_Toolbox" Category="{481999F2-7479-4e03-83D5-BE808BA142DF}" Package="{DA9FB551-C724-11d0-AE1F-00A0C90FFFC3}" RegisteredName="Environment_Toolbox" PackageName="Visual Studio Environment Package">
+            <PropertyValue name="ShowAllTabs">false</PropertyValue>
+            <PropertyValue name="Version">1</PropertyValue>
+            <PropertyValue name="DeletedTabCount">0</PropertyValue>
+            <PropertyValue name="Tab0.ID">Monobehaviour Events</PropertyValue>
+            <PropertyValue name="Tab0.Name">MonoBehaviour Events</PropertyValue>
+            <PropertyValue name="Tab0.View">0</PropertyValue>
+            <PropertyValue name="Tab0.UseDefaultName">false</PropertyValue>
+            <PropertyValue name="Tab0.RecordType">2</PropertyValue>
+            <PropertyValue name="Tab0.OriginalName">Monobehaviour Events</PropertyValue>
+            <PropertyValue name="TabCount">1</PropertyValue>
+            <PropertyValue name="DeletedItemCount">0</PropertyValue>
+            <PropertyValue name="Item0.DataProvider">{0A057BAD-6706-45D2-A800-683A29EC6BA3}</PropertyValue>
+            <PropertyValue name="Item0.ID">98C336150E2E9E2133062608AF770CA2</PropertyValue>
+            <PropertyValue name="Item0.Name">00 Awake</PropertyValue>
+            <PropertyValue name="Item0.UseDefaultName">false</PropertyValue>
+            <PropertyValue name="Item0.Tab">Monobehaviour Events</PropertyValue>
+            <PropertyValue name="Item0.TabID">Monobehaviour Events</PropertyValue>
+            <PropertyValue name="Item0.OriginalTabID">Monobehaviour Events</PropertyValue>
+            <PropertyValue name="Item0.OriginalTab">MonoBehaviour Events</PropertyValue>
+            <PropertyValue name="Item0.RecordType">1</PropertyValue>
+            <PropertyValue name="Item0.Data">void Awake()
+    {
+
+    }</PropertyValue>
+            <PropertyValue name="Item0.Position">1</PropertyValue>
+            <PropertyValue name="Item1.DataProvider">{0A057BAD-6706-45D2-A800-683A29EC6BA3}</PropertyValue>
+            <PropertyValue name="Item1.ID">0AD338A5EBAFF0180C35ADDC40D96662</PropertyValue>
+            <PropertyValue name="Item1.Name">01 OnEnable</PropertyValue>
+            <PropertyValue name="Item1.UseDefaultName">false</PropertyValue>
+            <PropertyValue name="Item1.Tab">Monobehaviour Events</PropertyValue>
+            <PropertyValue name="Item1.TabID">Monobehaviour Events</PropertyValue>
+            <PropertyValue name="Item1.OriginalTabID">Monobehaviour Events</PropertyValue>
+            <PropertyValue name="Item1.OriginalTab">MonoBehaviour Events</PropertyValue>
+            <PropertyValue name="Item1.RecordType">1</PropertyValue>
+            <PropertyValue name="Item1.Data">void OnEnable()
+    {
+
+    }</PropertyValue>
+            <PropertyValue name="Item1.Position">2</PropertyValue>
+            <PropertyValue name="Item2.DataProvider">{0A057BAD-6706-45D2-A800-683A29EC6BA3}</PropertyValue>
+            <PropertyValue name="Item2.ID">5ECD9DA90E2E9E218530612477640B58</PropertyValue>
+            <PropertyValue name="Item2.Name">02 Start</PropertyValue>
+            <PropertyValue name="Item2.UseDefaultName">false</PropertyValue>
+            <PropertyValue name="Item2.Tab">Monobehaviour Events</PropertyValue>
+            <PropertyValue name="Item2.TabID">Monobehaviour Events</PropertyValue>
+            <PropertyValue name="Item2.OriginalTabID">Monobehaviour Events</PropertyValue>
+            <PropertyValue name="Item2.OriginalTab">MonoBehaviour Events</PropertyValue>
+            <PropertyValue name="Item2.RecordType">1</PropertyValue>
+            <PropertyValue name="Item2.Data">void Start()
+    {
+
+    }</PropertyValue>
+            <PropertyValue name="Item2.Position">3</PropertyValue>
+            <PropertyValue name="Item3.DataProvider">{0A057BAD-6706-45D2-A800-683A29EC6BA3}</PropertyValue>
+            <PropertyValue name="Item3.ID">DF1CED2CF20C1A2342811A39EA6F7CC9</PropertyValue>
+            <PropertyValue name="Item3.Name">03 FixedUpdate</PropertyValue>
+            <PropertyValue name="Item3.UseDefaultName">false</PropertyValue>
+            <PropertyValue name="Item3.Tab">Monobehaviour Events</PropertyValue>
+            <PropertyValue name="Item3.TabID">Monobehaviour Events</PropertyValue>
+            <PropertyValue name="Item3.OriginalTabID">Monobehaviour Events</PropertyValue>
+            <PropertyValue name="Item3.OriginalTab">MonoBehaviour Events</PropertyValue>
+            <PropertyValue name="Item3.RecordType">1</PropertyValue>
+            <PropertyValue name="Item3.Data">void FixedUpdate()
+    {
+
+    }</PropertyValue>
+            <PropertyValue name="Item3.Position">4</PropertyValue>
+            <PropertyValue name="Item4.DataProvider">{0A057BAD-6706-45D2-A800-683A29EC6BA3}</PropertyValue>
+            <PropertyValue name="Item4.ID">19DCC7841C804A175DD5E85CEFFC74EE</PropertyValue>
+            <PropertyValue name="Item4.Name">04 OnTriggerEnter</PropertyValue>
+            <PropertyValue name="Item4.UseDefaultName">false</PropertyValue>
+            <PropertyValue name="Item4.Tab">Monobehaviour Events</PropertyValue>
+            <PropertyValue name="Item4.TabID">Monobehaviour Events</PropertyValue>
+            <PropertyValue name="Item4.OriginalTabID">Monobehaviour Events</PropertyValue>
+            <PropertyValue name="Item4.OriginalTab">MonoBehaviour Events</PropertyValue>
+            <PropertyValue name="Item4.RecordType">1</PropertyValue>
+            <PropertyValue name="Item4.Data">void OnTriggerEnter(Collider other)
+    {
+
+    }</PropertyValue>
+            <PropertyValue name="Item4.Position">5</PropertyValue>
+            <PropertyValue name="Item5.DataProvider">{0A057BAD-6706-45D2-A800-683A29EC6BA3}</PropertyValue>
+            <PropertyValue name="Item5.ID">70CAB0FE879BCBD8BC82A0B4714EF137</PropertyValue>
+            <PropertyValue name="Item5.Name">04 OnTriggerEnter2D</PropertyValue>
+            <PropertyValue name="Item5.UseDefaultName">false</PropertyValue>
+            <PropertyValue name="Item5.Tab">Monobehaviour Events</PropertyValue>
+            <PropertyValue name="Item5.TabID">Monobehaviour Events</PropertyValue>
+            <PropertyValue name="Item5.OriginalTabID">Monobehaviour Events</PropertyValue>
+            <PropertyValue name="Item5.OriginalTab">MonoBehaviour Events</PropertyValue>
+            <PropertyValue name="Item5.RecordType">1</PropertyValue>
+            <PropertyValue name="Item5.Data">void OnTriggerEnter2D(Collider2D other)
+    {
+
+    }</PropertyValue>
+            <PropertyValue name="Item5.Position">6</PropertyValue>
+            <PropertyValue name="Item6.DataProvider">{0A057BAD-6706-45D2-A800-683A29EC6BA3}</PropertyValue>
+            <PropertyValue name="Item6.ID">E06C08F14A0671B14FA5E679BA901BD7</PropertyValue>
+            <PropertyValue name="Item6.Name">04 OnTriggerEnter2D</PropertyValue>
+            <PropertyValue name="Item6.UseDefaultName">false</PropertyValue>
+            <PropertyValue name="Item6.Tab">Monobehaviour Events</PropertyValue>
+            <PropertyValue name="Item6.TabID">Monobehaviour Events</PropertyValue>
+            <PropertyValue name="Item6.OriginalTabID">Monobehaviour Events</PropertyValue>
+            <PropertyValue name="Item6.OriginalTab">MonoBehaviour Events</PropertyValue>
+            <PropertyValue name="Item6.RecordType">1</PropertyValue>
+            <PropertyValue name="Item6.Data">void OnTriggerEnter2D(Collider2D other)
+    {
+
+    }</PropertyValue>
+            <PropertyValue name="Item6.Position">7</PropertyValue>
+            <PropertyValue name="Item7.DataProvider">{0A057BAD-6706-45D2-A800-683A29EC6BA3}</PropertyValue>
+            <PropertyValue name="Item7.ID">D2918FAE8DF26237C06F827963CD0497</PropertyValue>
+            <PropertyValue name="Item7.Name">04 OnTriggerExit</PropertyValue>
+            <PropertyValue name="Item7.UseDefaultName">false</PropertyValue>
+            <PropertyValue name="Item7.Tab">Monobehaviour Events</PropertyValue>
+            <PropertyValue name="Item7.TabID">Monobehaviour Events</PropertyValue>
+            <PropertyValue name="Item7.OriginalTabID">Monobehaviour Events</PropertyValue>
+            <PropertyValue name="Item7.OriginalTab">MonoBehaviour Events</PropertyValue>
+            <PropertyValue name="Item7.RecordType">1</PropertyValue>
+            <PropertyValue name="Item7.Data">void OnTriggerExit(Collider other)
+    {
+
+    }</PropertyValue>
+            <PropertyValue name="Item7.Position">8</PropertyValue>
+            <PropertyValue name="Item8.DataProvider">{0A057BAD-6706-45D2-A800-683A29EC6BA3}</PropertyValue>
+            <PropertyValue name="Item8.ID">1E69E9E9E03E16A4D1B35B363AFF8405</PropertyValue>
+            <PropertyValue name="Item8.Name">04 OnTriggerExit2D</PropertyValue>
+            <PropertyValue name="Item8.UseDefaultName">false</PropertyValue>
+            <PropertyValue name="Item8.Tab">Monobehaviour Events</PropertyValue>
+            <PropertyValue name="Item8.TabID">Monobehaviour Events</PropertyValue>
+            <PropertyValue name="Item8.OriginalTabID">Monobehaviour Events</PropertyValue>
+            <PropertyValue name="Item8.OriginalTab">MonoBehaviour Events</PropertyValue>
+            <PropertyValue name="Item8.RecordType">1</PropertyValue>
+            <PropertyValue name="Item8.Data">void OnTriggerExit2D(Collider2D other)
+    {
+
+    }</PropertyValue>
+            <PropertyValue name="Item8.Position">9</PropertyValue>
+            <PropertyValue name="Item9.DataProvider">{0A057BAD-6706-45D2-A800-683A29EC6BA3}</PropertyValue>
+            <PropertyValue name="Item9.ID">D2918FAE833C67EA2BA61EBC63CD0497</PropertyValue>
+            <PropertyValue name="Item9.Name">04 OnTriggerStay</PropertyValue>
+            <PropertyValue name="Item9.UseDefaultName">false</PropertyValue>
+            <PropertyValue name="Item9.Tab">Monobehaviour Events</PropertyValue>
+            <PropertyValue name="Item9.TabID">Monobehaviour Events</PropertyValue>
+            <PropertyValue name="Item9.OriginalTabID">Monobehaviour Events</PropertyValue>
+            <PropertyValue name="Item9.OriginalTab">MonoBehaviour Events</PropertyValue>
+            <PropertyValue name="Item9.RecordType">1</PropertyValue>
+            <PropertyValue name="Item9.Data">void OnTriggerStay(Collider other)
+    {
+
+    }</PropertyValue>
+            <PropertyValue name="Item9.Position">10</PropertyValue>
+            <PropertyValue name="Item10.DataProvider">{0A057BAD-6706-45D2-A800-683A29EC6BA3}</PropertyValue>
+            <PropertyValue name="Item10.ID">6641928EE03E16A4D1B35B36E76260E2</PropertyValue>
+            <PropertyValue name="Item10.Name">04 OnTriggerStay2D</PropertyValue>
+            <PropertyValue name="Item10.UseDefaultName">false</PropertyValue>
+            <PropertyValue name="Item10.Tab">Monobehaviour Events</PropertyValue>
+            <PropertyValue name="Item10.TabID">Monobehaviour Events</PropertyValue>
+            <PropertyValue name="Item10.OriginalTabID">Monobehaviour Events</PropertyValue>
+            <PropertyValue name="Item10.OriginalTab">MonoBehaviour Events</PropertyValue>
+            <PropertyValue name="Item10.RecordType">1</PropertyValue>
+            <PropertyValue name="Item10.Data">void OnTriggerStay2D(Collider2D other)
+    {
+
+    }</PropertyValue>
+            <PropertyValue name="Item10.Position">11</PropertyValue>
+            <PropertyValue name="Item11.DataProvider">{0A057BAD-6706-45D2-A800-683A29EC6BA3}</PropertyValue>
+            <PropertyValue name="Item11.ID">7D6F13398C7FADB0A12843DF5900580D</PropertyValue>
+            <PropertyValue name="Item11.Name">05 OnCollisionEnter</PropertyValue>
+            <PropertyValue name="Item11.UseDefaultName">false</PropertyValue>
+            <PropertyValue name="Item11.Tab">Monobehaviour Events</PropertyValue>
+            <PropertyValue name="Item11.TabID">Monobehaviour Events</PropertyValue>
+            <PropertyValue name="Item11.OriginalTabID">Monobehaviour Events</PropertyValue>
+            <PropertyValue name="Item11.OriginalTab">MonoBehaviour Events</PropertyValue>
+            <PropertyValue name="Item11.RecordType">1</PropertyValue>
+            <PropertyValue name="Item11.Data">void OnCollisionEnter(Collision collision)
+    {
+        
+    }</PropertyValue>
+            <PropertyValue name="Item11.Position">12</PropertyValue>
+            <PropertyValue name="Item12.DataProvider">{0A057BAD-6706-45D2-A800-683A29EC6BA3}</PropertyValue>
+            <PropertyValue name="Item12.ID">0FAC8009AB3D48B750DE3C7A475BA088</PropertyValue>
+            <PropertyValue name="Item12.Name">05 OnCollisionEnter2D</PropertyValue>
+            <PropertyValue name="Item12.UseDefaultName">false</PropertyValue>
+            <PropertyValue name="Item12.Tab">Monobehaviour Events</PropertyValue>
+            <PropertyValue name="Item12.TabID">Monobehaviour Events</PropertyValue>
+            <PropertyValue name="Item12.OriginalTabID">Monobehaviour Events</PropertyValue>
+            <PropertyValue name="Item12.OriginalTab">MonoBehaviour Events</PropertyValue>
+            <PropertyValue name="Item12.RecordType">1</PropertyValue>
+            <PropertyValue name="Item12.Data">void OnCollisionEnter2D(Collision2D coll)
+    {
+        
+    }</PropertyValue>
+            <PropertyValue name="Item12.Position">13</PropertyValue>
+            <PropertyValue name="Item13.DataProvider">{0A057BAD-6706-45D2-A800-683A29EC6BA3}</PropertyValue>
+            <PropertyValue name="Item13.ID">A01DBAABCE83DA143AB104AE719155B9</PropertyValue>
+            <PropertyValue name="Item13.Name">05 OnCollisionExit</PropertyValue>
+            <PropertyValue name="Item13.UseDefaultName">false</PropertyValue>
+            <PropertyValue name="Item13.Tab">Monobehaviour Events</PropertyValue>
+            <PropertyValue name="Item13.TabID">Monobehaviour Events</PropertyValue>
+            <PropertyValue name="Item13.OriginalTabID">Monobehaviour Events</PropertyValue>
+            <PropertyValue name="Item13.OriginalTab">MonoBehaviour Events</PropertyValue>
+            <PropertyValue name="Item13.RecordType">1</PropertyValue>
+            <PropertyValue name="Item13.Data">void OnCollisionExit(Collision collisionInfo)
+    {
+       
+    }</PropertyValue>
+            <PropertyValue name="Item13.Position">14</PropertyValue>
+            <PropertyValue name="Item14.DataProvider">{0A057BAD-6706-45D2-A800-683A29EC6BA3}</PropertyValue>
+            <PropertyValue name="Item14.ID">E878E4348064899997BF5D8B231C7A9B</PropertyValue>
+            <PropertyValue name="Item14.Name">05 OnCollisionExit2D</PropertyValue>
+            <PropertyValue name="Item14.UseDefaultName">false</PropertyValue>
+            <PropertyValue name="Item14.Tab">Monobehaviour Events</PropertyValue>
+            <PropertyValue name="Item14.TabID">Monobehaviour Events</PropertyValue>
+            <PropertyValue name="Item14.OriginalTabID">Monobehaviour Events</PropertyValue>
+            <PropertyValue name="Item14.OriginalTab">MonoBehaviour Events</PropertyValue>
+            <PropertyValue name="Item14.RecordType">1</PropertyValue>
+            <PropertyValue name="Item14.Data">void OnCollisionExit2D(Collision2D coll)
+    {
+        
+    }</PropertyValue>
+            <PropertyValue name="Item14.Position">15</PropertyValue>
+            <PropertyValue name="Item15.DataProvider">{0A057BAD-6706-45D2-A800-683A29EC6BA3}</PropertyValue>
+            <PropertyValue name="Item15.ID">2BBD1B0B0F9D590CDE6E0B455BB22B17</PropertyValue>
+            <PropertyValue name="Item15.Name">05 OnCollisionStay</PropertyValue>
+            <PropertyValue name="Item15.UseDefaultName">false</PropertyValue>
+            <PropertyValue name="Item15.Tab">Monobehaviour Events</PropertyValue>
+            <PropertyValue name="Item15.TabID">Monobehaviour Events</PropertyValue>
+            <PropertyValue name="Item15.OriginalTabID">Monobehaviour Events</PropertyValue>
+            <PropertyValue name="Item15.OriginalTab">MonoBehaviour Events</PropertyValue>
+            <PropertyValue name="Item15.RecordType">1</PropertyValue>
+            <PropertyValue name="Item15.Data">void OnCollisionStay(Collision collisionInfo)
+    {
+
+    }</PropertyValue>
+            <PropertyValue name="Item15.Position">16</PropertyValue>
+            <PropertyValue name="Item16.DataProvider">{0A057BAD-6706-45D2-A800-683A29EC6BA3}</PropertyValue>
+            <PropertyValue name="Item16.ID">83EC4D0F2FF9557B4A85E98FFE33EC3B</PropertyValue>
+            <PropertyValue name="Item16.Name">05 OnCollisionStay2D</PropertyValue>
+            <PropertyValue name="Item16.UseDefaultName">false</PropertyValue>
+            <PropertyValue name="Item16.Tab">Monobehaviour Events</PropertyValue>
+            <PropertyValue name="Item16.TabID">Monobehaviour Events</PropertyValue>
+            <PropertyValue name="Item16.OriginalTabID">Monobehaviour Events</PropertyValue>
+            <PropertyValue name="Item16.OriginalTab">MonoBehaviour Events</PropertyValue>
+            <PropertyValue name="Item16.RecordType">1</PropertyValue>
+            <PropertyValue name="Item16.Data">void OnCollisionStay2D(Collision2D coll)
+    {
+
+    }</PropertyValue>
+            <PropertyValue name="Item16.Position">17</PropertyValue>
+            <PropertyValue name="Item17.DataProvider">{0A057BAD-6706-45D2-A800-683A29EC6BA3}</PropertyValue>
+            <PropertyValue name="Item17.ID">52D962ED49C17CB79E05B9D17F459F2C</PropertyValue>
+            <PropertyValue name="Item17.Name">05 OnControllerColliderHit</PropertyValue>
+            <PropertyValue name="Item17.UseDefaultName">false</PropertyValue>
+            <PropertyValue name="Item17.Tab">Monobehaviour Events</PropertyValue>
+            <PropertyValue name="Item17.TabID">Monobehaviour Events</PropertyValue>
+            <PropertyValue name="Item17.OriginalTabID">Monobehaviour Events</PropertyValue>
+            <PropertyValue name="Item17.OriginalTab">MonoBehaviour Events</PropertyValue>
+            <PropertyValue name="Item17.RecordType">1</PropertyValue>
+            <PropertyValue name="Item17.Data">//OnControllerColliderHit is called when the controller hits a collider while performing a Move.
+    //This can be used to push objects when they collide with the character.
+    void OnControllerColliderHit(ControllerColliderHit hit)
+    {
+
+    }</PropertyValue>
+            <PropertyValue name="Item17.Position">18</PropertyValue>
+            <PropertyValue name="Item18.DataProvider">{0A057BAD-6706-45D2-A800-683A29EC6BA3}</PropertyValue>
+            <PropertyValue name="Item18.ID">C672241DD0E5AA9D32C3252A919DDFBF</PropertyValue>
+            <PropertyValue name="Item18.Name">05 OnParticleCollision</PropertyValue>
+            <PropertyValue name="Item18.UseDefaultName">false</PropertyValue>
+            <PropertyValue name="Item18.Tab">Monobehaviour Events</PropertyValue>
+            <PropertyValue name="Item18.TabID">Monobehaviour Events</PropertyValue>
+            <PropertyValue name="Item18.OriginalTabID">Monobehaviour Events</PropertyValue>
+            <PropertyValue name="Item18.OriginalTab">MonoBehaviour Events</PropertyValue>
+            <PropertyValue name="Item18.RecordType">1</PropertyValue>
+            <PropertyValue name="Item18.Data">void OnParticleCollision(GameObject other)
+    {
+
+    }</PropertyValue>
+            <PropertyValue name="Item18.Position">19</PropertyValue>
+            <PropertyValue name="Item19.DataProvider">{0A057BAD-6706-45D2-A800-683A29EC6BA3}</PropertyValue>
+            <PropertyValue name="Item19.ID">66962B4A55C06A924BA14C2C066477AA</PropertyValue>
+            <PropertyValue name="Item19.Name">06 OnMouseDown</PropertyValue>
+            <PropertyValue name="Item19.UseDefaultName">false</PropertyValue>
+            <PropertyValue name="Item19.Tab">Monobehaviour Events</PropertyValue>
+            <PropertyValue name="Item19.TabID">Monobehaviour Events</PropertyValue>
+            <PropertyValue name="Item19.OriginalTabID">Monobehaviour Events</PropertyValue>
+            <PropertyValue name="Item19.OriginalTab">MonoBehaviour Events</PropertyValue>
+            <PropertyValue name="Item19.RecordType">1</PropertyValue>
+            <PropertyValue name="Item19.Data">void OnMouseDown()
+    {
+
+    }</PropertyValue>
+            <PropertyValue name="Item19.Position">20</PropertyValue>
+            <PropertyValue name="Item20.DataProvider">{0A057BAD-6706-45D2-A800-683A29EC6BA3}</PropertyValue>
+            <PropertyValue name="Item20.ID">66962B4A55C06A92F9B2D24AC90D6FF3</PropertyValue>
+            <PropertyValue name="Item20.Name">06 OnMouseDrag</PropertyValue>
+            <PropertyValue name="Item20.UseDefaultName">false</PropertyValue>
+            <PropertyValue name="Item20.Tab">Monobehaviour Events</PropertyValue>
+            <PropertyValue name="Item20.TabID">Monobehaviour Events</PropertyValue>
+            <PropertyValue name="Item20.OriginalTabID">Monobehaviour Events</PropertyValue>
+            <PropertyValue name="Item20.OriginalTab">MonoBehaviour Events</PropertyValue>
+            <PropertyValue name="Item20.RecordType">1</PropertyValue>
+            <PropertyValue name="Item20.Data">void OnMouseDrag()
+    {
+
+    }</PropertyValue>
+            <PropertyValue name="Item20.Position">21</PropertyValue>
+            <PropertyValue name="Item21.DataProvider">{0A057BAD-6706-45D2-A800-683A29EC6BA3}</PropertyValue>
+            <PropertyValue name="Item21.ID">D4F4A226CF6B2F9F07A2B6C885D601CA</PropertyValue>
+            <PropertyValue name="Item21.Name">06 OnMouseEnter</PropertyValue>
+            <PropertyValue name="Item21.UseDefaultName">false</PropertyValue>
+            <PropertyValue name="Item21.Tab">Monobehaviour Events</PropertyValue>
+            <PropertyValue name="Item21.TabID">Monobehaviour Events</PropertyValue>
+            <PropertyValue name="Item21.OriginalTabID">Monobehaviour Events</PropertyValue>
+            <PropertyValue name="Item21.OriginalTab">MonoBehaviour Events</PropertyValue>
+            <PropertyValue name="Item21.RecordType">1</PropertyValue>
+            <PropertyValue name="Item21.Data">void OnMouseEnter()
+    {
+
+    }</PropertyValue>
+            <PropertyValue name="Item21.Position">22</PropertyValue>
+            <PropertyValue name="Item22.DataProvider">{0A057BAD-6706-45D2-A800-683A29EC6BA3}</PropertyValue>
+            <PropertyValue name="Item22.ID">66962B4A55C06A92A0824CD99378FCE2</PropertyValue>
+            <PropertyValue name="Item22.Name">06 OnMouseExit</PropertyValue>
+            <PropertyValue name="Item22.UseDefaultName">false</PropertyValue>
+            <PropertyValue name="Item22.Tab">Monobehaviour Events</PropertyValue>
+            <PropertyValue name="Item22.TabID">Monobehaviour Events</PropertyValue>
+            <PropertyValue name="Item22.OriginalTabID">Monobehaviour Events</PropertyValue>
+            <PropertyValue name="Item22.OriginalTab">MonoBehaviour Events</PropertyValue>
+            <PropertyValue name="Item22.RecordType">1</PropertyValue>
+            <PropertyValue name="Item22.Data">void OnMouseExit()
+    {
+
+    }</PropertyValue>
+            <PropertyValue name="Item22.Position">23</PropertyValue>
+            <PropertyValue name="Item23.DataProvider">{0A057BAD-6706-45D2-A800-683A29EC6BA3}</PropertyValue>
+            <PropertyValue name="Item23.ID">66962B4A55C06A92FFB910D248392D13</PropertyValue>
+            <PropertyValue name="Item23.Name">06 OnMouseOver</PropertyValue>
+            <PropertyValue name="Item23.UseDefaultName">false</PropertyValue>
+            <PropertyValue name="Item23.Tab">Monobehaviour Events</PropertyValue>
+            <PropertyValue name="Item23.TabID">Monobehaviour Events</PropertyValue>
+            <PropertyValue name="Item23.OriginalTabID">Monobehaviour Events</PropertyValue>
+            <PropertyValue name="Item23.OriginalTab">MonoBehaviour Events</PropertyValue>
+            <PropertyValue name="Item23.RecordType">1</PropertyValue>
+            <PropertyValue name="Item23.Data">void OnMouseOver()
+    {
+
+    }</PropertyValue>
+            <PropertyValue name="Item23.Position">24</PropertyValue>
+            <PropertyValue name="Item24.DataProvider">{0A057BAD-6706-45D2-A800-683A29EC6BA3}</PropertyValue>
+            <PropertyValue name="Item24.ID">3954738A3B9F7E472553DBA2D96E8D3E</PropertyValue>
+            <PropertyValue name="Item24.Name">06 OnMouseUp</PropertyValue>
+            <PropertyValue name="Item24.UseDefaultName">false</PropertyValue>
+            <PropertyValue name="Item24.Tab">Monobehaviour Events</PropertyValue>
+            <PropertyValue name="Item24.TabID">Monobehaviour Events</PropertyValue>
+            <PropertyValue name="Item24.OriginalTabID">Monobehaviour Events</PropertyValue>
+            <PropertyValue name="Item24.OriginalTab">MonoBehaviour Events</PropertyValue>
+            <PropertyValue name="Item24.RecordType">1</PropertyValue>
+            <PropertyValue name="Item24.Data">void OnMouseUp()
+    {
+
+    }</PropertyValue>
+            <PropertyValue name="Item24.Position">25</PropertyValue>
+            <PropertyValue name="Item25.DataProvider">{0A057BAD-6706-45D2-A800-683A29EC6BA3}</PropertyValue>
+            <PropertyValue name="Item25.ID">55E4A984E2E7A0EC8CC4E2DAEDD3088F</PropertyValue>
+            <PropertyValue name="Item25.Name">06 OnMouseUpAsButton</PropertyValue>
+            <PropertyValue name="Item25.UseDefaultName">false</PropertyValue>
+            <PropertyValue name="Item25.Tab">Monobehaviour Events</PropertyValue>
+            <PropertyValue name="Item25.TabID">Monobehaviour Events</PropertyValue>
+            <PropertyValue name="Item25.OriginalTabID">Monobehaviour Events</PropertyValue>
+            <PropertyValue name="Item25.OriginalTab">MonoBehaviour Events</PropertyValue>
+            <PropertyValue name="Item25.RecordType">1</PropertyValue>
+            <PropertyValue name="Item25.Data">void OnMouseUpAsButton()
+    {
+
+    }</PropertyValue>
+            <PropertyValue name="Item25.Position">26</PropertyValue>
+            <PropertyValue name="Item26.DataProvider">{0A057BAD-6706-45D2-A800-683A29EC6BA3}</PropertyValue>
+            <PropertyValue name="Item26.ID">A6045330CDBB462D9483C60027569CFA</PropertyValue>
+            <PropertyValue name="Item26.Name">07 Update</PropertyValue>
+            <PropertyValue name="Item26.UseDefaultName">false</PropertyValue>
+            <PropertyValue name="Item26.Tab">Monobehaviour Events</PropertyValue>
+            <PropertyValue name="Item26.TabID">Monobehaviour Events</PropertyValue>
+            <PropertyValue name="Item26.OriginalTabID">Monobehaviour Events</PropertyValue>
+            <PropertyValue name="Item26.OriginalTab">MonoBehaviour Events</PropertyValue>
+            <PropertyValue name="Item26.RecordType">1</PropertyValue>
+            <PropertyValue name="Item26.Data">void Update()
+    {
+
+    }</PropertyValue>
+            <PropertyValue name="Item26.Position">27</PropertyValue>
+            <PropertyValue name="Item27.DataProvider">{0A057BAD-6706-45D2-A800-683A29EC6BA3}</PropertyValue>
+            <PropertyValue name="Item27.ID">AFB96D373D4C330400C65BA8F82376E8</PropertyValue>
+            <PropertyValue name="Item27.Name">08 LateUpdate</PropertyValue>
+            <PropertyValue name="Item27.UseDefaultName">false</PropertyValue>
+            <PropertyValue name="Item27.Tab">Monobehaviour Events</PropertyValue>
+            <PropertyValue name="Item27.TabID">Monobehaviour Events</PropertyValue>
+            <PropertyValue name="Item27.OriginalTabID">Monobehaviour Events</PropertyValue>
+            <PropertyValue name="Item27.OriginalTab">MonoBehaviour Events</PropertyValue>
+            <PropertyValue name="Item27.RecordType">1</PropertyValue>
+            <PropertyValue name="Item27.Data">void LateUpdate()
+    {
+
+    }</PropertyValue>
+            <PropertyValue name="Item27.Position">28</PropertyValue>
+            <PropertyValue name="Item28.DataProvider">{0A057BAD-6706-45D2-A800-683A29EC6BA3}</PropertyValue>
+            <PropertyValue name="Item28.ID">0C122B21C9F35364DC349FABD80ED439</PropertyValue>
+            <PropertyValue name="Item28.Name">09 OnBecameVisible</PropertyValue>
+            <PropertyValue name="Item28.UseDefaultName">false</PropertyValue>
+            <PropertyValue name="Item28.Tab">Monobehaviour Events</PropertyValue>
+            <PropertyValue name="Item28.TabID">Monobehaviour Events</PropertyValue>
+            <PropertyValue name="Item28.OriginalTabID">Monobehaviour Events</PropertyValue>
+            <PropertyValue name="Item28.OriginalTab">MonoBehaviour Events</PropertyValue>
+            <PropertyValue name="Item28.RecordType">1</PropertyValue>
+            <PropertyValue name="Item28.Data">void OnBecameVisible()
+    {
+        enabled = true;
+    }</PropertyValue>
+            <PropertyValue name="Item28.Position">29</PropertyValue>
+            <PropertyValue name="Item29.DataProvider">{0A057BAD-6706-45D2-A800-683A29EC6BA3}</PropertyValue>
+            <PropertyValue name="Item29.ID">288B2710D94FBFDC050F9EAFFF9F4623</PropertyValue>
+            <PropertyValue name="Item29.Name">10 OnBecameInvisible</PropertyValue>
+            <PropertyValue name="Item29.UseDefaultName">false</PropertyValue>
+            <PropertyValue name="Item29.Tab">Monobehaviour Events</PropertyValue>
+            <PropertyValue name="Item29.TabID">Monobehaviour Events</PropertyValue>
+            <PropertyValue name="Item29.OriginalTabID">Monobehaviour Events</PropertyValue>
+            <PropertyValue name="Item29.OriginalTab">MonoBehaviour Events</PropertyValue>
+            <PropertyValue name="Item29.RecordType">1</PropertyValue>
+            <PropertyValue name="Item29.Data">void OnBecameInvisible()
+    {
+        enabled = false;
+    }</PropertyValue>
+            <PropertyValue name="Item29.Position">30</PropertyValue>
+            <PropertyValue name="Item30.DataProvider">{0A057BAD-6706-45D2-A800-683A29EC6BA3}</PropertyValue>
+            <PropertyValue name="Item30.ID">2AA0845938F50FDADDEFDE19B3732731</PropertyValue>
+            <PropertyValue name="Item30.Name">11 OnDrawGizmos</PropertyValue>
+            <PropertyValue name="Item30.UseDefaultName">false</PropertyValue>
+            <PropertyValue name="Item30.Tab">Monobehaviour Events</PropertyValue>
+            <PropertyValue name="Item30.TabID">Monobehaviour Events</PropertyValue>
+            <PropertyValue name="Item30.OriginalTabID">Monobehaviour Events</PropertyValue>
+            <PropertyValue name="Item30.OriginalTab">MonoBehaviour Events</PropertyValue>
+            <PropertyValue name="Item30.RecordType">1</PropertyValue>
+            <PropertyValue name="Item30.Data">void OnDrawGizmos()
+    {
+
+    }</PropertyValue>
+            <PropertyValue name="Item30.Position">31</PropertyValue>
+            <PropertyValue name="Item31.DataProvider">{0A057BAD-6706-45D2-A800-683A29EC6BA3}</PropertyValue>
+            <PropertyValue name="Item31.ID">0281C737BBDACC74A1CC0908723E9690</PropertyValue>
+            <PropertyValue name="Item31.Name">11 OnDrawGizmosSelected</PropertyValue>
+            <PropertyValue name="Item31.UseDefaultName">false</PropertyValue>
+            <PropertyValue name="Item31.Tab">Monobehaviour Events</PropertyValue>
+            <PropertyValue name="Item31.TabID">Monobehaviour Events</PropertyValue>
+            <PropertyValue name="Item31.OriginalTabID">Monobehaviour Events</PropertyValue>
+            <PropertyValue name="Item31.OriginalTab">MonoBehaviour Events</PropertyValue>
+            <PropertyValue name="Item31.RecordType">1</PropertyValue>
+            <PropertyValue name="Item31.Data">void OnDrawGizmosSelected()
+    {
+
+    }</PropertyValue>
+            <PropertyValue name="Item31.Position">32</PropertyValue>
+            <PropertyValue name="Item32.DataProvider">{0A057BAD-6706-45D2-A800-683A29EC6BA3}</PropertyValue>
+            <PropertyValue name="Item32.ID">78A9D3820E2E9E211069AB7F9BC80E57</PropertyValue>
+            <PropertyValue name="Item32.Name">12 OnGUI</PropertyValue>
+            <PropertyValue name="Item32.UseDefaultName">false</PropertyValue>
+            <PropertyValue name="Item32.Tab">Monobehaviour Events</PropertyValue>
+            <PropertyValue name="Item32.TabID">Monobehaviour Events</PropertyValue>
+            <PropertyValue name="Item32.OriginalTabID">Monobehaviour Events</PropertyValue>
+            <PropertyValue name="Item32.OriginalTab">MonoBehaviour Events</PropertyValue>
+            <PropertyValue name="Item32.RecordType">1</PropertyValue>
+            <PropertyValue name="Item32.Data">void OnGUI()
+    {
+
+    }</PropertyValue>
+            <PropertyValue name="Item32.Position">33</PropertyValue>
+            <PropertyValue name="Item33.DataProvider">{0A057BAD-6706-45D2-A800-683A29EC6BA3}</PropertyValue>
+            <PropertyValue name="Item33.ID">08AB33D23E79CFE13CDED136A53ED551</PropertyValue>
+            <PropertyValue name="Item33.Name">13 ? OnApplicationFocus</PropertyValue>
+            <PropertyValue name="Item33.UseDefaultName">false</PropertyValue>
+            <PropertyValue name="Item33.Tab">Monobehaviour Events</PropertyValue>
+            <PropertyValue name="Item33.TabID">Monobehaviour Events</PropertyValue>
+            <PropertyValue name="Item33.OriginalTabID">Monobehaviour Events</PropertyValue>
+            <PropertyValue name="Item33.OriginalTab">MonoBehaviour Events</PropertyValue>
+            <PropertyValue name="Item33.RecordType">1</PropertyValue>
+            <PropertyValue name="Item33.Data">void OnApplicationFocus(bool focusState)
+    {
+
+    }</PropertyValue>
+            <PropertyValue name="Item33.Position">34</PropertyValue>
+            <PropertyValue name="Item34.DataProvider">{0A057BAD-6706-45D2-A800-683A29EC6BA3}</PropertyValue>
+            <PropertyValue name="Item34.ID">20A84FEA912EAD4B89FF2D2E8356D1E4</PropertyValue>
+            <PropertyValue name="Item34.Name">13 OnApplicationPause</PropertyValue>
+            <PropertyValue name="Item34.UseDefaultName">false</PropertyValue>
+            <PropertyValue name="Item34.Tab">Monobehaviour Events</PropertyValue>
+            <PropertyValue name="Item34.TabID">Monobehaviour Events</PropertyValue>
+            <PropertyValue name="Item34.OriginalTabID">Monobehaviour Events</PropertyValue>
+            <PropertyValue name="Item34.OriginalTab">MonoBehaviour Events</PropertyValue>
+            <PropertyValue name="Item34.RecordType">1</PropertyValue>
+            <PropertyValue name="Item34.Data">void OnApplicationPause(bool pauseStatus)
+    {
+
+    }</PropertyValue>
+            <PropertyValue name="Item34.Position">35</PropertyValue>
+            <PropertyValue name="Item35.DataProvider">{0A057BAD-6706-45D2-A800-683A29EC6BA3}</PropertyValue>
+            <PropertyValue name="Item35.ID">FA4CCB6AB26BC32BD17F1BE958D1D4FC</PropertyValue>
+            <PropertyValue name="Item35.Name">14 OnDisable</PropertyValue>
+            <PropertyValue name="Item35.UseDefaultName">false</PropertyValue>
+            <PropertyValue name="Item35.Tab">Monobehaviour Events</PropertyValue>
+            <PropertyValue name="Item35.TabID">Monobehaviour Events</PropertyValue>
+            <PropertyValue name="Item35.OriginalTabID">Monobehaviour Events</PropertyValue>
+            <PropertyValue name="Item35.OriginalTab">MonoBehaviour Events</PropertyValue>
+            <PropertyValue name="Item35.RecordType">1</PropertyValue>
+            <PropertyValue name="Item35.Data">void OnDisable()
+    {
+
+    }</PropertyValue>
+            <PropertyValue name="Item35.Position">36</PropertyValue>
+            <PropertyValue name="Item36.DataProvider">{0A057BAD-6706-45D2-A800-683A29EC6BA3}</PropertyValue>
+            <PropertyValue name="Item36.ID">C50221EEB26BC32B877E35E98E2C5474</PropertyValue>
+            <PropertyValue name="Item36.Name">15 OnDestroy</PropertyValue>
+            <PropertyValue name="Item36.UseDefaultName">false</PropertyValue>
+            <PropertyValue name="Item36.Tab">Monobehaviour Events</PropertyValue>
+            <PropertyValue name="Item36.TabID">Monobehaviour Events</PropertyValue>
+            <PropertyValue name="Item36.OriginalTabID">Monobehaviour Events</PropertyValue>
+            <PropertyValue name="Item36.OriginalTab">MonoBehaviour Events</PropertyValue>
+            <PropertyValue name="Item36.RecordType">1</PropertyValue>
+            <PropertyValue name="Item36.Data">void OnDestroy()
+    {
+
+    }</PropertyValue>
+            <PropertyValue name="Item36.Position">37</PropertyValue>
+            <PropertyValue name="Item37.DataProvider">{0A057BAD-6706-45D2-A800-683A29EC6BA3}</PropertyValue>
+            <PropertyValue name="Item37.ID">9B642D12AE3B126803DBD1A8AB9FC1D0</PropertyValue>
+            <PropertyValue name="Item37.Name">16 OnApplicationQuit</PropertyValue>
+            <PropertyValue name="Item37.UseDefaultName">false</PropertyValue>
+            <PropertyValue name="Item37.Tab">Monobehaviour Events</PropertyValue>
+            <PropertyValue name="Item37.TabID">Monobehaviour Events</PropertyValue>
+            <PropertyValue name="Item37.OriginalTabID">Monobehaviour Events</PropertyValue>
+            <PropertyValue name="Item37.OriginalTab">MonoBehaviour Events</PropertyValue>
+            <PropertyValue name="Item37.RecordType">1</PropertyValue>
+            <PropertyValue name="Item37.Data">void OnApplicationQuit()
+    {
+        PlayerPrefs.Save();
+    }</PropertyValue>
+            <PropertyValue name="Item37.Position">38</PropertyValue>
+            <PropertyValue name="ItemCount">38</PropertyValue>
+        </Category>
+    </Category>
+</UserSettings>
