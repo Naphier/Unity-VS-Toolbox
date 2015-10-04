@@ -7,7 +7,6 @@ Please feel free to ask to contribute to this project.
 
 #### Issues
 * VS doesn't save line endings as CRLF in toolbox text and does a pretty lousy job of keeping tabs straight. Strip 'em is a nice way to address this (see below).
-* 
 
 #### Some other tools you might want to consider:
 * [UnityVS Tools](https://www.visualstudio.com/features/unitytools-vs) - This should be coming in future updates of Unity in the installer package. This toolbox has some similar features, but UnityVS Tools is important for things like attaching the VS debugger to Unity.
